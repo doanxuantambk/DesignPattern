@@ -16,20 +16,12 @@ class Duck(Animal):
    def sayHello(self):
        print("Duck say Quoac Quoc")
 
-
-factory ={
-    "Dog": Dog(),
-    "Cat": Cat(),
-    "Duck": Duck()
-}
-
 class AnimalFactory():
 
    @staticmethod
-   def get_Animal(typ):
+   def getAnimal(typ):
       targetclass = typ.capitalize()
-      # return globals()[targetclass]()
-      return factory[targetclass]
+      return globals()[targetclass]()
       # if targetclass == "Image":
       #     return Image()
       # elif targetclass == "Input":
@@ -39,6 +31,8 @@ class AnimalFactory():
 
 
 # button_obj = AnimalFactory()
-button = ['dog', 'cat', 'duck']
-for b in button:
-   AnimalFactory.get_Animal(b).sayHello()
+animals = ['dog','dog', 'cat', 'duck']
+for b in animals:
+   animal = AnimalFactory.getAnimal(b)
+   print(animal)
+   animal.sayHello()
