@@ -1,25 +1,24 @@
 from abc import ABC, abstractclassmethod
-class Animal(object):
+class Shape(object):
    @abstractclassmethod
-   def sayHello(self):
+   def draw(self):
       pass
 
-class Dog(Animal):
-   def sayHello(self):
-       print("Dog say Gogo")
+class Circle(Shape):
+   def draw(self):
+       print("Inside Circle::draw() method.")
 
-class Cat(Animal):
-   def sayHello(self):
-       print("Cat say Memo")
+class Rectangle(Shape):
+   def draw(self):
+       print("Inside Rectangle::draw() method.")
 
-class Duck(Animal):
-   def sayHello(self):
-       print("Duck say Quoac Quoc")
+class Square(Shape):
+   def draw(self):
+       print("Inside Square::draw() method.")
 
-class AnimalFactory():
-
+class ShapeFactory():
    @staticmethod
-   def getAnimal(typ):
+   def getShape(typ):
       targetclass = typ.capitalize()
       return globals()[targetclass]()
       # if targetclass == "Image":
@@ -30,9 +29,8 @@ class AnimalFactory():
       #     return Flash()
 
 
-# button_obj = AnimalFactory()
-animals = ['dog','dog', 'cat', 'duck']
-for b in animals:
-   animal = AnimalFactory.getAnimal(b)
-   print(animal)
-   animal.sayHello()
+# button_obj = ShapeFactory()
+shapes = ['circle','rectangle', 'square']
+for b in shapes:
+   Shape = ShapeFactory.getShape(b)
+   Shape.draw()
