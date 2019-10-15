@@ -1,4 +1,5 @@
 Tham khao:
+
 https://gpcoder.com/4352-huong-dan-java-design-pattern-factory-method/
 
 https://www.tutorialspoint.com/design_pattern/factory_pattern.htm
