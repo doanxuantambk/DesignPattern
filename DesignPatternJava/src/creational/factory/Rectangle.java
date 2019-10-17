@@ -1,8 +1,5 @@
 package creational.factory;
 
-/**
- * @author tamdx
- */
 public class Rectangle implements Shape {
 
     @Override

@@ -2,24 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12432fdb-babf-425d-a104-f1736827cc58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/FastFoodOrderBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/OrderBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/adapter/AdapterPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/adapter/AdvancedMediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/adapter/AudioPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/adapter/MediaAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/adapter/MediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/adapter/Mp4Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/adapter/VlcPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternPython/Creational/BuilderPattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternPython/Creational/BuilderPattern2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternPython/Creational/PrototypePattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternPython/Creational/SingletonPatternThreadSafe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternPython/Structural/AdapterPattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternPython/Structural/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/FlasticFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/FurnitureAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/FurnitureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/MaterialType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/PlasticChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/PlasticTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/WoodChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/WoodFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/abstractFactory/WoodTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/ClientBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/singleton/BillPughSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/singleton/DoubleCheckLockingSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/singleton/EagerInitializedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/singleton/EnumSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/singleton/LazyInitializedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/singleton/ReflectionBreakSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/singleton/SerializedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/singleton/SingletonSerializedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/singleton/StaticBlockSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/singleton/ThreadSafeLazyInitializedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/TPBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/bridge/VietcomBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/FileComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/FileLeaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/FolderComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/EmployeeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/EmployeeConcreteComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/EmployeeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/TeamLeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/decorator/TeamMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternPython/Structural/BridgePattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternPython/Structural/Composite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternPython/Structural/Decorator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternJava/creational/factory/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternJava/creational/factory/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/factory/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DesignPatternPython/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatternPython/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python Design Patterns.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Design Patterns.docx" afterDir="false" />
     </list>
@@ -33,6 +63,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -65,13 +96,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AdapterPatternDemo">
-    <configuration name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structural.adapter.AdapterPatternDemo" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.abstractFactory.Client" />
       <module name="DesignPatternJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structural.adapter.*" />
+          <option name="PATTERN" value="creational.abstractFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,7 +111,20 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.builder.Client" />
+      <option name="MAIN_CLASS_NAME" value="structural.decorator.Client" />
+      <module name="DesignPatternJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structural.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.builder.ClientBank" />
       <module name="DesignPatternJava" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +136,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.factory.FactoryPatternDemo" />
+    <configuration name="ReflectionBreakSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.singleton.ReflectionBreakSingleton" />
       <module name="DesignPatternJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="creational.factory.*" />
+          <option name="PATTERN" value="creational.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonSerializedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.singleton.SingletonSerializedTest" />
+      <module name="DesignPatternJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="creational.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,9 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AdapterPatternDemo" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.FactoryPatternDemo" />
+        <item itemvalue="Application.SingletonSerializedTest" />
+        <item itemvalue="Application.ReflectionBreakSingleton" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.ClientBank" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +184,8 @@
       <updated>1571158758957</updated>
       <workItem from="1571158770705" duration="345000" />
       <workItem from="1571213000586" duration="4693000" />
+      <workItem from="1571275641572" duration="3988000" />
+      <workItem from="1571297162420" duration="7757000" />
     </task>
     <servers />
   </component>
@@ -136,7 +197,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
