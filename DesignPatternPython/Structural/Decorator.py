@@ -1,7 +1,8 @@
-from abc import abstractmethod
+from abc import abstractmethod, ABC,ABCMeta
 from datetime import datetime,date
 
-class EmployeeComponent:
+
+class EmployeeComponent(metaclass=ABCMeta):
 
     @abstractmethod
     def getName(self):
@@ -16,6 +17,7 @@ class EmployeeComponent:
     def terminate(self, terminateDate):
         pass
     def formatDate(self, theDate):
+        aa.getId()
         return theDate.strftime("%d/%m/%Y")
     def showBasicInformation(self):
         print("------------------------------")

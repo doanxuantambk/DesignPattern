@@ -1,6 +1,6 @@
-from abc import abstractmethod
+from abc import abstractmethod,ABC
 
-class FileComponent:
+class FileComponent(ABC):
     @abstractmethod
     def showProperty(self):
         pass

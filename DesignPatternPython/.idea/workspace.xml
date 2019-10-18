@@ -2,55 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0189a9ee-ea51-485a-9bd4-81493b409bab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/abstractFactory/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/abstractFactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/abstractFactory/FlasticFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/abstractFactory/FurnitureAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/abstractFactory/FurnitureFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/abstractFactory/MaterialType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/abstractFactory/PlasticChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/abstractFactory/PlasticTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/abstractFactory/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/abstractFactory/WoodChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/abstractFactory/WoodFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/abstractFactory/WoodTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/builder/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/builder/ClientBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/singleton/BillPughSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/singleton/DoubleCheckLockingSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/singleton/EagerInitializedSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/singleton/EnumSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/singleton/LazyInitializedSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/singleton/ReflectionBreakSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/singleton/SerializedSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/singleton/SingletonSerializedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/singleton/StaticBlockSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/singleton/ThreadSafeLazyInitializedSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/bridge/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/bridge/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/bridge/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/bridge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/bridge/SavingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/bridge/TPBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/bridge/VietcomBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/composite/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/composite/FileComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/composite/FileLeaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/composite/FolderComposite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/decorator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/decorator/EmployeeComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/decorator/EmployeeConcreteComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/decorator/EmployeeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/decorator/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/decorator/TeamLeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/decorator/TeamMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/BridgePattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Composite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/facade/CcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/facade/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/facade/CmService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternJava/src/structural/facade/SubFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural/FacadePattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DesignPatternJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatternJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatternJava/out/production/DesignPatternJava/creational/factory/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatternJava/out/production/DesignPatternJava/creational/factory/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatternJava/src/creational/factory/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatternJava/src/creational/factory/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structural/AdapterPattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/Structural/AdapterPattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structural/BridgePattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/Structural/BridgePattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structural/Composite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Structural/Composite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structural/Decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Structural/Decorator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python Design Patterns.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Design Patterns.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,23 +28,15 @@
     <SUITE FILE_PATH="coverage/DesignPatternPython$FactoryPattern.coverage" NAME="FactoryPattern Coverage Results" MODIFIED="1571159525909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
     <SUITE FILE_PATH="coverage/DesignPatternPython$SingletonPatternThreadSafe.coverage" NAME="SingletonPatternThreadSafe Coverage Results" MODIFIED="1571191471514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
     <SUITE FILE_PATH="coverage/DesignPatternPython$Composite.coverage" NAME="Composite Coverage Results" MODIFIED="1571284524922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$FacadePattern.coverage" NAME="FacadePattern Coverage Results" MODIFIED="1571394548253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
     <SUITE FILE_PATH="coverage/DesignPatternPython$PrototypePattern.coverage" NAME="PrototypePattern Coverage Results" MODIFIED="1571217839808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
-    <SUITE FILE_PATH="coverage/DesignPatternPython$Decorator.coverage" NAME="Decorator Coverage Results" MODIFIED="1571306047927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$Decorator.coverage" NAME="Decorator Coverage Results" MODIFIED="1571393578052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
     <SUITE FILE_PATH="coverage/DesignPatternPython$BridgePattern.coverage" NAME="BridgePattern Coverage Results" MODIFIED="1571277543170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
     <SUITE FILE_PATH="coverage/DesignPatternPython$SingletonPattern.coverage" NAME="SingletonPattern Coverage Results" MODIFIED="1571121049801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
     <SUITE FILE_PATH="coverage/DesignPatternPython$SingletonPatternThreadSave.coverage" NAME="SingletonPatternThreadSave Coverage Results" MODIFIED="1571190885758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Creational/BuilderPattern.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="28" selection-end-line="77" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Creational/PrototypePattern.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,8 +52,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Structural/AdapterPattern.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="17">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Structural/FacadePattern.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -107,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Structural/BridgePattern.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -116,19 +79,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Structural/Composite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            <state relative-caret-position="34">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Structural/Decorator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="103" column="23" lean-forward="true" selection-start-line="103" selection-start-column="23" selection-end-line="103" selection-end-column="23" />
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -202,16 +165,17 @@
         <option value="$PROJECT_DIR$/Creational/BuilderPattern2.py" />
         <option value="$PROJECT_DIR$/Creational/BuilderPattern.py" />
         <option value="$PROJECT_DIR$/Creational/PrototypePattern.py" />
-        <option value="$PROJECT_DIR$/Structural/AdapterPattern.py" />
-        <option value="$PROJECT_DIR$/Structural/BridgePattern.py" />
         <option value="$PROJECT_DIR$/Structural/Composite.py" />
+        <option value="$PROJECT_DIR$/Structural/BridgePattern.py" />
+        <option value="$PROJECT_DIR$/Structural/AdapterPattern.py" />
         <option value="$PROJECT_DIR$/Structural/Decorator.py" />
+        <option value="$PROJECT_DIR$/Structural/FacadePattern.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="1897" />
+    <option name="y" value="12" />
     <option name="width" value="1376" />
     <option name="height" value="784" />
   </component>
@@ -265,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Decorator">
+  <component name="RunManager" selected="Python.FacadePattern">
     <configuration name="AdapterPattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DesignPatternPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -354,7 +318,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PrototypePattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FacadePattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DesignPatternPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -362,12 +326,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Creational" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Structural" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Creational/PrototypePattern.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Structural/FacadePattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FacadePattern" />
         <item itemvalue="Python.Decorator" />
         <item itemvalue="Python.Composite" />
         <item itemvalue="Python.BridgePattern" />
         <item itemvalue="Python.AdapterPattern" />
-        <item itemvalue="Python.PrototypePattern" />
       </list>
     </recent_temporary>
   </component>
@@ -403,22 +367,24 @@
       <workItem from="1571188322019" duration="15296000" />
       <workItem from="1571275570029" duration="6135000" />
       <workItem from="1571297038850" duration="4205000" />
+      <workItem from="1571364765932" duration="597000" />
+      <workItem from="1571384920836" duration="3127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37252000" />
+    <option name="totallyTimeSpent" value="40976000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1609808" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23404256" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.512275" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7234042" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2881907" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -506,20 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Structural/AdapterPattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Structural/BridgePattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Creational/BuilderPattern2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -548,20 +500,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/ProgramData/Anaconda3/envs/dev/Lib/abc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="146" column="55" lean-forward="true" selection-start-line="146" selection-start-column="55" selection-end-line="146" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Structural/Composite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Structural/BridgePattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Structural/AdapterPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Structural/Decorator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="103" column="23" lean-forward="true" selection-start-line="103" selection-start-column="23" selection-end-line="103" selection-end-column="23" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Structural/FacadePattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
         </state>
       </provider>
     </entry>

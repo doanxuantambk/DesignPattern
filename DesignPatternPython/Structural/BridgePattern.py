@@ -1,6 +1,6 @@
-from abc import abstractmethod
+from abc import abstractmethod,ABC
 
-class Account:
+class Account(ABC):
     @abstractmethod
     def openAccount(self):
         pass

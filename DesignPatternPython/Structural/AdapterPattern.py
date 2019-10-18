@@ -1,5 +1,5 @@
-from abc import abstractmethod
-class MediaPlayer:
+from abc import abstractmethod,ABC
+class MediaPlayer(ABC):
     @abstractmethod
     def play(self, audioType, fileName):
         pass
