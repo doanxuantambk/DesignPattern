@@ -1,62 +1,37 @@
-from abc import abstractmethod, ABC
+from collections.abc import Iterable, Iterator
 
-class Item:
-    def __init__(self, title, url) -> None:
+class MyCountIterable(Iterable):
+    def __iter__(self):
+        return MyCountIterator(self.value)
+
+    def __init__(self, value) -> None:
         super().__init__()
-        self.__url = url
-        self.__title = title
+        self.value = value
 
-    def getTitle(self):
-        return self.__title
-    def setTitle(self, title):
-        self.__title = title
-    def getUrl(self):
-        return self.__url
-    def setUrl(self,url):
-        self.__url = url
+class MyCountIterator(Iterator):
+    def __next__(self):
+        if self.index < self.value:
+            Index = self.index
+            self.index += 1
+            return Index
+        else:
+            raise StopIteration()
 
-    def __repr__(self) -> str:
-        return str(self.__dict__)
+    def __iter__(self):
+        return self
 
-class Iterator(ABC):
-    @abstractmethod
-    def hasNext(self):
-        pass
-    @abstractmethod
-    def next(self):
-        pass
+    def __init__(self, value) -> None:
+        super().__init__()
+        self.value = value
+        self.index = 0
 
-menuItems =[]
-class Menu:
+firstCount = MyCountIterable(5)
+list(firstCount)
 
-    def __init__(self) -> None:
-        global menuItems
-        menuItems =[]
-
-    def addItem(self,item):
-        menuItems.append(item)
-    def iterator(self):
-        return MenuIterator()
-    @staticmethod
-    def getItems():
-        return menuItems
-
-class MenuIterator(Iterator):
-    def __init__(self):
-        self.__currentIndex = 0
-
-    def hasNext(self):
-        return self.__currentIndex < len(Menu.getItems())
-
-    def next(self):
-        self.__currentIndex = self.__currentIndex+1
-        return Menu.getItems()[self.__currentIndex-1]
-
-if __name__ == "__main__":
-    menu = Menu()
-    menu.addItem(Item("a1","http://localhost:1"))
-    menu.addItem(Item("a2","http://localhost:2"))
-    itera = menu.iterator()
-    while(itera.hasNext()):
-        ite = itera.next()
-        print(ite)
+firstCountIter = iter(firstCount)
+try:
+    while True:
+        it = next(firstCountIter)
+        print(it)
+except StopIteration:
+    pass
