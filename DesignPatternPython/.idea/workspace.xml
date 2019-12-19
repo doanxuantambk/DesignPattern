@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0189a9ee-ea51-485a-9bd4-81493b409bab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../DesignPatternJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatternJava/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,33 +11,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/DesignPatternPython$FactoryPattern.coverage" NAME="FactoryPattern Coverage Results" MODIFIED="1571159525909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
-    <SUITE FILE_PATH="coverage/DesignPatternPython$SingletonPattern.coverage" NAME="SingletonPattern Coverage Results" MODIFIED="1571121049801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
-    <SUITE FILE_PATH="coverage/DesignPatternPython$chat_client.coverage" NAME="chat_client Coverage Results" MODIFIED="1571751566231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Behavioral/mediator" />
-    <SUITE FILE_PATH="coverage/DesignPatternPython$ChainOfResponsibility.coverage" NAME="ChainOfResponsibility Coverage Results" MODIFIED="1571472220158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Behavioral" />
     <SUITE FILE_PATH="coverage/DesignPatternPython$BuilderPattern.coverage" NAME="BuilderPattern Coverage Results" MODIFIED="1571209070841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
-    <SUITE FILE_PATH="coverage/DesignPatternPython$Decorator.coverage" NAME="Decorator Coverage Results" MODIFIED="1571393578052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
-    <SUITE FILE_PATH="coverage/DesignPatternPython$IteratorPattern__1_.coverage" NAME="IteratorPattern (1) Coverage Results" MODIFIED="1571735899535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Behavioral" />
-    <SUITE FILE_PATH="coverage/DesignPatternPython$Composite.coverage" NAME="Composite Coverage Results" MODIFIED="1571284524922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
-    <SUITE FILE_PATH="coverage/DesignPatternPython$SingletonPatternThreadSafe.coverage" NAME="SingletonPatternThreadSafe Coverage Results" MODIFIED="1571191471514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
-    <SUITE FILE_PATH="coverage/DesignPatternPython$InterpreterPattern.coverage" NAME="InterpreterPattern Coverage Results" MODIFIED="1571650330720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Behavioral" />
-    <SUITE FILE_PATH="coverage/DesignPatternPython$IteratorPattern3.coverage" NAME="IteratorPattern3 Coverage Results" MODIFIED="1571736478795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Behavioral" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$AdapterPattern.coverage" NAME="AdapterPattern Coverage Results" MODIFIED="1571222336679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
     <SUITE FILE_PATH="coverage/DesignPatternPython$BuilderPattern2.coverage" NAME="BuilderPattern2 Coverage Results" MODIFIED="1571207564021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$IteratorPattern3.coverage" NAME="IteratorPattern3 Coverage Results" MODIFIED="1571736478795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Behavioral" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$FactoryPattern.coverage" NAME="FactoryPattern Coverage Results" MODIFIED="1571159525909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$ChainOfResponsibility.coverage" NAME="ChainOfResponsibility Coverage Results" MODIFIED="1571472220158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Behavioral" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$chat_client.coverage" NAME="chat_client Coverage Results" MODIFIED="1571751566231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Behavioral/mediator" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$SingletonPatternThreadSafe.coverage" NAME="SingletonPatternThreadSafe Coverage Results" MODIFIED="1571191471514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$IteratorPattern.coverage" NAME="IteratorPattern Coverage Results" MODIFIED="1571734922146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Behavioral" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$Composite.coverage" NAME="Composite Coverage Results" MODIFIED="1571284524922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$FlyWeight.coverage" NAME="FlyWeight Coverage Results" MODIFIED="1571454569961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$InterpreterPattern.coverage" NAME="InterpreterPattern Coverage Results" MODIFIED="1571650330720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Behavioral" />
     <SUITE FILE_PATH="coverage/DesignPatternPython$SingletonPatternThreadSave.coverage" NAME="SingletonPatternThreadSave Coverage Results" MODIFIED="1571190885758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
     <SUITE FILE_PATH="coverage/DesignPatternPython$Command.coverage" NAME="Command Coverage Results" MODIFIED="1571480572970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Behavioral" />
-    <SUITE FILE_PATH="coverage/DesignPatternPython$PrototypePattern.coverage" NAME="PrototypePattern Coverage Results" MODIFIED="1571217839808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
-    <SUITE FILE_PATH="coverage/DesignPatternPython$IteratorPattern.coverage" NAME="IteratorPattern Coverage Results" MODIFIED="1571734922146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Behavioral" />
-    <SUITE FILE_PATH="coverage/DesignPatternPython$FlyWeight.coverage" NAME="FlyWeight Coverage Results" MODIFIED="1571454569961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
     <SUITE FILE_PATH="coverage/DesignPatternPython$FacadePattern.coverage" NAME="FacadePattern Coverage Results" MODIFIED="1571394548253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$PrototypePattern.coverage" NAME="PrototypePattern Coverage Results" MODIFIED="1571217839808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$Decorator.coverage" NAME="Decorator Coverage Results" MODIFIED="1571393578052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$IteratorPattern__1_.coverage" NAME="IteratorPattern (1) Coverage Results" MODIFIED="1571735899535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Behavioral" />
     <SUITE FILE_PATH="coverage/DesignPatternPython$BridgePattern.coverage" NAME="BridgePattern Coverage Results" MODIFIED="1571277543170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
-    <SUITE FILE_PATH="coverage/DesignPatternPython$AdapterPattern.coverage" NAME="AdapterPattern Coverage Results" MODIFIED="1571222336679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Structural" />
+    <SUITE FILE_PATH="coverage/DesignPatternPython$SingletonPattern.coverage" NAME="SingletonPattern Coverage Results" MODIFIED="1571121049801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creational" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Behavioral/mediator/user.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="221">
               <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
             </state>
           </provider>
@@ -47,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Behavioral/mediator/chat_mediator_impl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="119">
               <caret line="9" column="26" selection-end-line="19" selection-end-column="32" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
@@ -59,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Behavioral/mediator/user_impl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="221">
               <caret line="13" column="46" selection-end-line="13" selection-end-column="60" />
             </state>
           </provider>
@@ -68,7 +67,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Behavioral/mediator/chat_mediator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="136">
               <caret line="9" column="12" selection-end-line="9" selection-end-column="12" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
@@ -80,7 +79,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Behavioral/mediator/chat_client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="323">
               <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
               <folding>
                 <element signature="e#0#66#0" expanded="true" />
@@ -92,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Creational/FactoryPattern.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="136">
               <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
             </state>
           </provider>
@@ -150,10 +149,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="47" />
-    <option name="y" value="28" />
-    <option name="width" value="1873" />
-    <option name="height" value="1052" />
+    <option name="y" value="27" />
+    <option name="width" value="1920" />
+    <option name="height" value="1004" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -190,7 +188,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../gitlab_main/service_nlp" />
+    <property name="last_opened_file_path" value="D:/BOT_MyViettel/chatbot_myviettel/Source/service_nlp_myviettel" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -358,16 +356,18 @@
       <workItem from="1571740290884" duration="8423000" />
       <workItem from="1571824494321" duration="690000" />
       <workItem from="1571801922235" duration="86000" />
+      <workItem from="1575078686583" duration="1318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73108000" />
+    <option name="totallyTimeSpent" value="74426000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="28" width="1873" height="1052" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18514472" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -531,13 +531,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-891573916/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="3691" column="8" selection-start-line="3691" selection-start-column="8" selection-end-line="3691" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-891573916/builtins.py" />
     <entry file="file://$PROJECT_DIR$/Behavioral/IteratorPattern3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
@@ -557,14 +551,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Behavioral/mediator/user.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="221">
           <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Behavioral/mediator/chat_mediator_impl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="119">
           <caret line="9" column="26" selection-end-line="19" selection-end-column="32" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
@@ -574,14 +568,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Behavioral/mediator/user_impl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="221">
           <caret line="13" column="46" selection-end-line="13" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Behavioral/mediator/chat_mediator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="136">
           <caret line="9" column="12" selection-end-line="9" selection-end-column="12" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
@@ -591,14 +585,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Creational/FactoryPattern.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="136">
           <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Behavioral/mediator/chat_client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="323">
           <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
           <folding>
             <element signature="e#0#66#0" expanded="true" />
